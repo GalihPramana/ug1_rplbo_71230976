@@ -1,6 +1,3 @@
 *.docx
-!/temp/*.py
-/temp/*.php
-!/temp/test*
-/temp/hello*
+
 
